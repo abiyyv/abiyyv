@@ -1,4 +1,4 @@
-##Hey there, I'm Abiyyu Naufal! 👋
+Hey there, I'm Abiyyu Naufal! 👋
 
 Information Systems Graduate | Aspiring Data Engineer
 
